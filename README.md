@@ -20,5 +20,4 @@ I like reverse engineering, setting up game servers, and reviving old games!
 ### 📫 Contact
 - **Telegram**: [t.me/xo3pe](https://t.me/xo3pe)
 
----
-*Always experimenting with new ways to modify binaries and host servers.*
+
