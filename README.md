@@ -1,4 +1,4 @@
-# 👋 Welcome to OneixLabs
+# 👋 Welcome to ClasherLabs
 
 ### 🛠 Tech Stack
 <p align="left">
